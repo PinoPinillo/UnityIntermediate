@@ -11,4 +11,7 @@ https://github.com/PinoPinillo/UnityIntroduction
 PRÓXIMAMENTE
 
 ## Retos
-PRÓXIMAMENTE
+Una vez finalizado el proyecto, os propongo unos retos para que apliquéis y ampliéis los conocimientos adquiridos en el taller:
+- Añadir nuevos enemigos con diferentes comportamientos.
+- Hacerlo en primera persona.
+- Agregar modo multijugador.
